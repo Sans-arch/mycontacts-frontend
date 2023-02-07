@@ -19,6 +19,7 @@ export const Container = styled.header`
   }
 
   h1 {
+    margin-top: 11px;
     font-size: 24px;
     font-weight: bold;
   }
